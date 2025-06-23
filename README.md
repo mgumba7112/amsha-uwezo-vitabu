@@ -5,7 +5,6 @@
   <style>body { font-family: Arial, sans-serif; text-align: center; padding: 40px; background-color:#f9f9f9; } h1 { color: #2c3e50; } ol { text-align: left; display: inline-block; margin-top:20px; } li { margin: 8px 0; } a { color: white; background-color: #3498db; padding: 10px 14px; text-decoration: none; border-radius: 5px; display: inline-block; } a:hover { background-color: #2980b9; }</style>
 </head>
 <body>
-  <h1>AMSHA UWEZO VITABU</h1>
   <ol>
     <li><a href="https://vitabu.somavitabu.co.tz/#/view/shop-item/66/" target="_blank">1. AMSHA UWEZO WAKO HALISI</a></li>
     <li><a href="https://vitabu.somavitabu.co.tz/#/view/shop-item/67/" target="_blank">2. JENGA NIDHAMU KALI</a></li>
